@@ -5,3 +5,4 @@ output: html_document
 
 # Learning ggplot2
 
+Install package "tidyverse"- data science package.
